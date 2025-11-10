@@ -2,7 +2,7 @@
 
 A FastAPI backend system for analyzing medical feedback using Gemini AI, with real-time alerts via Socket.IO.
 
-python -c "import secrets; print(secrets.token_urlsafe(64))"
+
 
 ## Features
 
